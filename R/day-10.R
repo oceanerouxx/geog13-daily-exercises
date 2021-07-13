@@ -1,4 +1,4 @@
-# CONUS Day 8 Exercise
+# CONUS Day 10 Exercise
 # Oceane Roux
 # July 13th, 2020
 
